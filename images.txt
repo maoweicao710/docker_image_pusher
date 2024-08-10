@@ -5,3 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 zack357/douban-tool:2.0.1
+linuxserver/readarr
+kangkang223/reader
